@@ -12,18 +12,18 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "The Iris Park (TIP)"
 title_separator          : "-"
-subtitle                 : "Detailed tips for your Machine Learning Journey"
+subtitle                 : "Detailed Datascience tips"
 name                     : "Jairam Hegde"
-description              : "An amazing website."
+description              : "My datascience notebook"
 url                      : "https://jairamshegde.github.io/website/"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : "/website" # the subpath of your site, e.g. "/blog"
+repository               : "jairamshegde/website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/tip_logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Jairam Hegde"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Machine Learning enthusiast | Obsidian user."
+  bio              : "Machine Learning enthusiast , Obsidian user."
   location         : "India"
   email            :
   links:
