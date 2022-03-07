@@ -1,9 +1,10 @@
 ---
 layout: single
 title: "AboutMe"
-permalink: /About/
+permalink: /about/
 comments: false
 author_profile: true
+
 ---
 
 Hi there 👋 
